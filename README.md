@@ -88,7 +88,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 
 ## Course - 5
-### Sequence Models - [Coursera](https://www.coursera.org/learn/nlp-sequence-models) - [Certificate](https://coursera.org/share/229f0df4ff2de1e58180e0d536691d99)
+### Sequence Models - [Coursera](https://www.coursera.org/learn/nlp-sequence-models) - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BTM8YC3JJT6X)
 
 #### Table of Contents
 * [Week 1](https://github.com/MrinmoiHossain/Deep-Learning-Specialization-Coursera/tree/master/Course_5-Sequence_Models/Week-1)
